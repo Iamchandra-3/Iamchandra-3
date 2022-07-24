@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandra-3&label=Profile%20views&color=0e75b6&style=flat" alt="iamchandra-3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamchandra-3" alt="iamchandra-3" /></a> </p>
-
 - 🔭 I’m currently working on **Accident detection using deep learning**
 
 - 🌱 I’m currently learning **Deep learning**
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **chandrasekhar.v.869@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eBZDECKFSUaa96A2gKiu8WKTRer90YMq/view?usp=drivesdk](https://drive.google.com/file/d/1eBZDECKFSUaa96A2gKiu8WKTRer90YMq/view?usp=drivesdk)
+- 📄 Know about my experiences [https://rb.gy/bxtlqf](https://rb.gy/bxtlqf)
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
