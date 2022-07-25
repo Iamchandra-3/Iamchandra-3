@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chandra Sekhar Vinnakota</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h1 align="center">Hi 👋, there !!</h1>
+<h3 align="center">I am chandra sekhar , A passionate computer science student from India , who loves to commits code at night and merges it in day. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandra-3&label=Profile%20views&color=0e75b6&style=flat" alt="iamchandra-3" /> </p>
 
