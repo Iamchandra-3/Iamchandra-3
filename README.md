@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chandrasekhar.v.869@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/bxtlqf](https://rb.gy/bxtlqf)
+- 📄 Know about my experiences [https://rb.gy/bxtlqf](https://drive.google.com/file/d/1ybM-SwPWxKUpojZ5FRuoGu4F8fo-y8PE/view?usp=sharing)
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
