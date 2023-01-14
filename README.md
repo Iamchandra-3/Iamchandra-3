@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandra-3&label=Profile%20views&color=0e75b6&style=flat" alt="iamchandra-3" /> </p>
 
-- 🔭 I’m currently working on **Lifestyle based health estimator**
+- 🔭 I’m currently working on **Efficiency of activation functions in Neural Networks**
 
 - 🌱 I’m currently learning **Deep learning**
 
